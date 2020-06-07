@@ -160,8 +160,11 @@ h3{
 
 p1{
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     font-style: Serif;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: block;
 }
 
 #Technologies {
